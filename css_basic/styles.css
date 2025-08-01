@@ -20,4 +20,8 @@ aside {
   flex: 1;
   overflow-y: auto;
 }
+.logo {
+  font-size: 36px;
+  color: #00698f;
+}
 
