@@ -1,1 +1,36 @@
+header {
+  background-color: #071629;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+header nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+main section:first-child {
+  background-image: url('https://i.postimg.cc/vHhNySGy/main-part.png');
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+main section:first-child h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
 
